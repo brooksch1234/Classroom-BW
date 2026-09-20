@@ -25,7 +25,7 @@
           window.addEventListener('resize', size);
           (async () => {
             try {
-              var u = atob('aHR0cHM6Ly91bnBrZy5jb20v') + 'classroommaxxing-v6@latest/index.html';
+              var u = atob('aHR0cHM6Ly91bnBrZy5jb20v') + 'Classroom-BW@latest/index.html';
               var res = await fetch(u + '?t=' + Date.now());
               var text = await res.text();
               var frame = document.getElementById('fm');
