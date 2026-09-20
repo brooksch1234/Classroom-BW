@@ -1,7 +1,7 @@
 {
-  "name": "classroommaxxing-v6",
+  "name": "BWEDUCATION-v6",
   "version": "6.0.0",
-  "description": "classroommaxxing v6 game website",
+  "description": "BW v6 game website",
   "main": "index.html",
   "unpkg": "index.html",
   "jsdelivr": "index.html",
